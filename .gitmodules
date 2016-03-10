@@ -1,0 +1,3 @@
+[submodule "2048-ai-assignment"]
+	path = 2048-ai-assignment
+	url = https://github.com/paduvi/2048-ai-assignment.git
